@@ -1,0 +1,10 @@
+﻿<div class="container">
+    <div class='row'>
+        <div class='col s9'>
+            <search (customEvent)='onSearchForString($event)'></search>
+        </div>
+    </div>
+    <div class='row'>
+        <card *ngFor='let c of cards' [card]='c' (customEvent)="onBookmarkCard($event)"></card>
+    </div>
+</div>

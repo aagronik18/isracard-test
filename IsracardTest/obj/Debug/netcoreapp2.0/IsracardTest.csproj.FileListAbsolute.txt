@@ -1,0 +1,11 @@
+C:\Works\Tests\IsracardTest\IsracardTest\bin\Debug\netcoreapp2.0\IsracardTest.deps.json
+C:\Works\Tests\IsracardTest\IsracardTest\bin\Debug\netcoreapp2.0\IsracardTest.runtimeconfig.json
+C:\Works\Tests\IsracardTest\IsracardTest\bin\Debug\netcoreapp2.0\IsracardTest.runtimeconfig.dev.json
+C:\Works\Tests\IsracardTest\IsracardTest\bin\Debug\netcoreapp2.0\IsracardTest.dll
+C:\Works\Tests\IsracardTest\IsracardTest\bin\Debug\netcoreapp2.0\IsracardTest.pdb
+C:\Works\Tests\IsracardTest\IsracardTest\obj\Debug\netcoreapp2.0\IsracardTest.csproj.CoreCompileInputs.cache
+C:\Works\Tests\IsracardTest\IsracardTest\obj\Debug\netcoreapp2.0\IsracardTest.AssemblyInfoInputs.cache
+C:\Works\Tests\IsracardTest\IsracardTest\obj\Debug\netcoreapp2.0\IsracardTest.AssemblyInfo.cs
+C:\Works\Tests\IsracardTest\IsracardTest\obj\Debug\netcoreapp2.0\IsracardTest.dll
+C:\Works\Tests\IsracardTest\IsracardTest\obj\Debug\netcoreapp2.0\IsracardTest.pdb
+C:\Works\Tests\IsracardTest\IsracardTest\obj\Debug\netcoreapp2.0\IsracardTest.csprojResolveAssemblyReference.cache
